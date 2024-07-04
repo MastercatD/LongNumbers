@@ -1,0 +1,9 @@
+﻿  LongNumber.cpp
+C:\Users\Леонид\source\repos\Длинные числа\Длинные числа\LongNumber.cpp(374,7): warning C4101: result: неиспользованная локальная переменная
+C:\Users\Леонид\source\repos\Длинные числа\Длинные числа\LongNumber.cpp(109): warning C4172: возвращение адреса локальной или временной переменной : result
+C:\Users\Леонид\source\repos\Длинные числа\Длинные числа\LongNumber.cpp(227): warning C4172: возвращение адреса локальной или временной переменной : result
+C:\Users\Леонид\source\repos\Длинные числа\Длинные числа\LongNumber.cpp(121): warning C4172: возвращение адреса локальной или временной переменной : result
+C:\Users\Леонид\source\repos\Длинные числа\Длинные числа\LongNumber.cpp(438): warning C4172: возвращение адреса локальной или временной переменной : container
+C:\Users\Леонид\source\repos\Длинные числа\Длинные числа\LongNumber.cpp(427): warning C4172: возвращение адреса локальной или временной переменной : container
+C:\Users\Леонид\source\repos\Длинные числа\Длинные числа\LongNumber.cpp(171): warning C4172: возвращение адреса локальной или временной переменной : result
+  Длинные числа.vcxproj -> C:\Users\Леонид\source\repos\Длинные числа\Debug\Длинные числа.exe
